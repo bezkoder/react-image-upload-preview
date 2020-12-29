@@ -1,0 +1,12 @@
+.container{
+  width: 600px !important;
+  margin: 20px;
+}
+
+.content {
+  margin: 20px 0;
+}
+
+.preview {
+  max-width: 200px;
+}
