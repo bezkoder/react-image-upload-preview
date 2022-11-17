@@ -121,7 +121,7 @@ export default class UploadImages extends Component {
         )}
 
         <div className="card mt-3">
-          <div className="card-header">List of Files</div>
+          <div className="card-header">List of Images</div>
           <ul className="list-group list-group-flush">
             {imageInfos &&
               imageInfos.map((img, index) => (
